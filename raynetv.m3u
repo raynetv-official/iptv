@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="GMA.ph" tvg-name="GMA 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="PHILIPPINES",GMA 7
+https://cdn.ganbaruby23.xyz/stream/converge/gma/master.m3u8?u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+
+#EXTINF:-1 tvg-id="alltv.ph" tvg-name="ALL TV" tvg-logo="https://alltv.ph/wp-content/uploads/2024/06/LOGO-ALLTV-NEW.png" group-title="PHILIPPINES",ALL TV
+http://santol.whatbox.ca:12232/stream/converge/alltv/master.m3u8?u=FiliTVUnpaid&p=656d3abf8ba691e8c86bbbf696027d238d322c4e4844b1bf20b5d186d724c2ed
+
+#EXTINF:-1 tvg-id="aliw.ph" tvg-name="ALIW23" tvg-logo="https://i.ibb.co/z8RF9NQ/channels4-profile-removebg-preview.png" group-title="PHILIPPINES",ALIW23
+http://peach.whatbox.ca:12232/stream/converge/aliw23/master.m3u8?u=FiliTVUnpaid&p=656d3abf8ba691e8c86bbbf696027d238d322c4e4844b1bf20b5d186d724c2ed
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158023_ld_h15_aa.png?lock=720x540" group-title="Lifestyle",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
